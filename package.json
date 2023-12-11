@@ -2,10 +2,10 @@
   "name": "whether_app",
   "version": "1.0.0",
   "description": "A simple react weather app",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Rohan Barman",
   "license": "ISC",
